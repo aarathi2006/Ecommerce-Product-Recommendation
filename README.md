@@ -5,8 +5,12 @@ This system analyzes user behavior, ratings, browsing history, and product featu
 
 # Features
 Product search with intelligent filtering
+
 Rating-based recommendations
+
 Content-based filtering
+
 Collaborative filtering (user-user & item-item similarity)
+
 Hybrid recommendation system
 <img width="1366" height="571" alt="Image" src="https://github.com/user-attachments/assets/87572a16-4a65-49bc-aa22-f41561f251d7" />
